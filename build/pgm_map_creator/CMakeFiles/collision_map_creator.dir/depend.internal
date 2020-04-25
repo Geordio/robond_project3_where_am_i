@@ -302,17 +302,17 @@ pgm_map_creator/CMakeFiles/collision_map_creator.dir/src/collision_map_creator.c
  /usr/include/ignition/math2/ignition/math/Vector3Stats.hh
  /usr/include/ignition/math2/ignition/math/Vector4.hh
  /usr/include/ignition/math2/ignition/math/config.hh
- /usr/include/sdformat-4.3/sdf/Assert.hh
- /usr/include/sdformat-4.3/sdf/Console.hh
- /usr/include/sdformat-4.3/sdf/Converter.hh
- /usr/include/sdformat-4.3/sdf/Element.hh
- /usr/include/sdformat-4.3/sdf/Exception.hh
- /usr/include/sdformat-4.3/sdf/Param.hh
- /usr/include/sdformat-4.3/sdf/SDFImpl.hh
- /usr/include/sdformat-4.3/sdf/Types.hh
- /usr/include/sdformat-4.3/sdf/parser.hh
- /usr/include/sdformat-4.3/sdf/sdf.hh
- /usr/include/sdformat-4.3/sdf/sdf_config.h
- /usr/include/sdformat-4.3/sdf/system_util.hh
+ /usr/include/sdformat-4.4/sdf/Assert.hh
+ /usr/include/sdformat-4.4/sdf/Console.hh
+ /usr/include/sdformat-4.4/sdf/Converter.hh
+ /usr/include/sdformat-4.4/sdf/Element.hh
+ /usr/include/sdformat-4.4/sdf/Exception.hh
+ /usr/include/sdformat-4.4/sdf/Param.hh
+ /usr/include/sdformat-4.4/sdf/SDFImpl.hh
+ /usr/include/sdformat-4.4/sdf/Types.hh
+ /usr/include/sdformat-4.4/sdf/parser.hh
+ /usr/include/sdformat-4.4/sdf/sdf.hh
+ /usr/include/sdformat-4.4/sdf/sdf_config.h
+ /usr/include/sdformat-4.4/sdf/system_util.hh
  pgm_map_creator/msgs/collision_map_request.pb.h
  pgm_map_creator/msgs/vector2d.pb.h
